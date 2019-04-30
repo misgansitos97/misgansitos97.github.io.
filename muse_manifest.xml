@@ -1,0 +1,104 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thefourmagicwords.com" resolutions="1x" timestamp="1556542050916">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="subpage3.css" crc="71176098" ref="subpage3"/>
+    <file name="subpage1.css" crc="229359748" ref="subpage1"/>
+    <file name="subpage2.css" crc="193086911" ref="subpage2"/>
+    <file name="index.css" crc="3996073011" ref="index"/>
+    <file name="subpage4.css" crc="3846635174" ref="subpage4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:subpage1:subpage3:subpage2:subpage4"/>
+    <file name="museutils.js" crc="340535759" ref="index:subpage1:subpage3:subpage2:subpage4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:subpage1:subpage3:subpage2:subpage4"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:subpage1:subpage3:subpage2:subpage4"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:subpage1:subpage3:subpage2:subpage4"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:subpage2"/>
+    <file name="require.js" crc="7928878" ref="index:subpage1:subpage3:subpage2:subpage4"/>
+    <file name="webpro.js" crc="4059564322" ref="subpage2"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="subpage2"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="subpage2"/>
+    <file name="touchswipe.js" crc="4075097462" ref="subpage2"/>
+  </folder>
+  <folder name="images">
+    <file name="original.gif" crc="472873885" seo="true" ref="subpage1">
+      <caption webpage="subpage1" alt=""/>
+      <caption webpage="subpage1" alt=""/>
+      <caption webpage="subpage1" alt=""/>
+      <caption webpage="subpage1" alt=""/>
+      <caption webpage="subpage1" alt=""/>
+    </file>
+    <file name="tumblr_mztdzdtx8h1t0xyebo2_r1_400.gif" crc="3998412405" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="giphy.gif" crc="4231166568" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="c37c0bcdee3b8ad9b98720e631b4e7f8.gif" crc="3863563451" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="lexla4o.gif" crc="3990908898" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="giphy (1).gif" crc="281134547" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="tumblr_p25tmicob11t0xyebo1_500.gif" crc="4173054187" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="5ytp.gif" crc="375032965" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="wb6e.gif" crc="407085726" seo="true" ref="subpage3">
+      <caption webpage="subpage3" alt=""/>
+    </file>
+    <file name="screen shot 2019-04-28 at 40646 pm.jpg" crc="4024230550" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="subpage2"/>
+    <file name="img_0362.jpg" crc="233521273" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="screen shot 2019-04-28 at 40443 pm.jpg" crc="4211668567" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="photo on 5-11-15 at 905 am -3.jpg" crc="37865010" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="13015611_853976058040316_3071811702258689544_n.jpg" crc="256101751" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="subpage2"/>
+    <file name="fatthornydegus-max-1mb.gif" crc="176840699" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="fortunatecluelesshummingbird-max-1mb.gif" crc="4224695467" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="9dln147.gif" crc="4252235046" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="1lua.gif" crc="102780427" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="d8fohut-eb4f893c-d1ad-4111-8e05-29993454b082.gif" crc="3798551591" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+    </file>
+    <file name="completebarrenlamb-max-1mb.gif" crc="4220393630" seo="true" ref="subpage2">
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+      <caption webpage="subpage2" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="62684329" seo="true" mt="1556541113181" redirect="true"/>
+  <file name="subpage1.html" crc="237249735" seo="true" mt="1555909661141" redirect="true"/>
+  <file name="subpage3.html" crc="3764120615" seo="true" mt="1556526021913" redirect="true"/>
+  <file name="subpage2.html" crc="4096679818" seo="true" mt="1556524354497" redirect="true"/>
+  <file name="subpage4.html" crc="18729273" seo="true" mt="1556529764582" redirect="true"/>
+</manifest>
